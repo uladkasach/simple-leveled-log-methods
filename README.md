@@ -22,7 +22,7 @@ npm install --save simple-leveled-log-methods
 ### an init file
 ```ts
 // e.g., in `src/utils/log.ts
-import { generateLogMethods, LOG_LEVEL } from './_utils/simpleLeveledLogMethods';
+import { generateLogMethods, LOG_LEVEL } from 'simple-leveled-log-methods';
 
 /*
   define the minimal log level

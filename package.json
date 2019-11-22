@@ -18,7 +18,7 @@
     "requestId"
   ],
   "bugs": "https://github.com/uladkasach/simple-leveled-log-methods/issues",
-  "main": "dist/contract/index.js",
+  "main": "dist/index.js",
   "engines": {
     "node": ">=8.0.0"
   },
